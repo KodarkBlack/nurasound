@@ -1,9 +1,10 @@
 import React from 'react';
+import nurapage from '../../src/assets/nurapage.png';
 
 const Home = () => {
   return (
     <div>
-     <h1></h1>
+     <img src={nurapage} alt="" />
     </div>
   );
 };

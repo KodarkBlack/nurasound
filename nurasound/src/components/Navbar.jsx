@@ -7,7 +7,7 @@ const Navbar = () => {
         <li className="text-3xl">Nura</li>
         <li>Product</li>
         <li>Subscription</li>
-        <li>Why Nura</li>
+        <li>Why Nura?</li>
         <li>Support</li>
       </ul>
       <h1 className='mr-[5%]'>Cart (0)</h1>
